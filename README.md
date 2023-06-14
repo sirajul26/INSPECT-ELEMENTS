@@ -9,7 +9,7 @@ This JavaScript snippet enables the inspect element feature in the Android brows
 3. In the browser's address bar, type `javascript:` followed by the provided code:
 
    ```javascript
-   (function () {
+   javascript:(function () {
      var script = document.createElement('script');
      script.src="//cdn.jsdelivr.net/npm/eruda";
      document.body.appendChild(script);
