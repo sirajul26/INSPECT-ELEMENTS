@@ -2,7 +2,7 @@
 
 This JavaScript snippet enables the inspect element feature in the Android browser using the Eruda library. It injects the necessary script into the webpage, allowing you to inspect and debug the DOM, CSS, and JavaScript.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=10&pause=10&color=F70C22&background=000000&center=true&vCenter=true&width=250&lines=INSPECT-ELEMENTS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=10&pause=10&color=F70C22&background=000000&center=true&vCenter=true&width=250&lines=INSPECTion)](https://git.io/typing-svg)
 
 ## Usage
 
